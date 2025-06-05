@@ -13,6 +13,10 @@ const router = createRouter({
     },
     {
       path: '/orders',
+<<<<<<< HEAD
+=======
+
+>>>>>>> e183441b4254db8680e5b1f26cf6ac0f7055a9ae
       component: orders,
     },
     {
